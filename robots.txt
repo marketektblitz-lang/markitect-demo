@@ -1,3 +1,0 @@
-# Demo build: keep out of search so it doesn't compete with the real domain.
-User-agent: *
-Disallow: /
